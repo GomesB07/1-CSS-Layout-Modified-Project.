@@ -10,9 +10,9 @@
 The project is already finished!
 ##
 
-### Project on GitHub Pages:
+### 📄Project on GitHub Pages:
     
- 📄Link:
+ Link: https://gomesb07.github.io/1-CSS-Layout-Modified-Project./
 
 ##
 
