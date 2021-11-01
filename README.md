@@ -12,7 +12,7 @@ The project is already finished!
 
 ### 📄Project on GitHub Pages:
     
- Link: https://gomesb07.github.io/1-CSS-Layout-Modified-Project./
+ Link: https://gomesb07.github.io/2-CSS-Layout-Project./
 
 ##
 
